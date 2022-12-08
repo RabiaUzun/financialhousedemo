@@ -1,0 +1,10 @@
+.venv
+.pytest_cache
+.coverage
+**/__pycache__
+.idea
+Notes.txt
+.docker
+uploads/nltk/*
+uploads/.DS_Store
+.DS_Store
